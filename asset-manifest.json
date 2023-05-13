@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/antykitchira/static/css/main.aeaba97c.css",
+    "main.js": "/antykitchira/static/js/main.ab7777eb.js",
+    "static/js/787.e80ac87f.chunk.js": "/antykitchira/static/js/787.e80ac87f.chunk.js",
+    "static/media/hero.jpg": "/antykitchira/static/media/hero.869051aeb1b74c419eca.jpg",
+    "static/media/me.png": "/antykitchira/static/media/me.c403e29f1a4500989ae8.png",
+    "index.html": "/antykitchira/index.html",
+    "main.aeaba97c.css.map": "/antykitchira/static/css/main.aeaba97c.css.map",
+    "main.ab7777eb.js.map": "/antykitchira/static/js/main.ab7777eb.js.map",
+    "787.e80ac87f.chunk.js.map": "/antykitchira/static/js/787.e80ac87f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aeaba97c.css",
+    "static/js/main.ab7777eb.js"
+  ]
+}
